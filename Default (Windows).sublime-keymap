@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+i"], "command": "reindent" },
+	{"keys": ["ctrl+shift+v"], "command": "open_in_browser"}
+]

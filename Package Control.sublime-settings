@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Icon Fonts",
+		"Material Theme",
+		"Package Control",
+		"Shell Exec",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"Theme - itg.flat",
+		"Theme - Spaceblack",
+		"Theme - Spacegray",
+		"View In Browser"
+	]
+}
